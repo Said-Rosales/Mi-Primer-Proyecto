@@ -1,2 +1,3 @@
 # Mi-Primer-Proyecto
-Repositorio
+Este es mi primer proyecto para el curso  de codigo de PILARES
+
